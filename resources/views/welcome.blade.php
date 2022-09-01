@@ -28,7 +28,7 @@
                             <input type="text" placeholder="Email or phone number" class="w-full rounded-lg text-lg placeholder:focus:text-[#dfe1e3]  p-3 ring-1 ring-[#dfe1e3] focus:ring focus:ring-[#b3d4fb]/20  focus:outline focus:outline-[#5199f5] focus:text-black text-[#9d96a1]">
 
                             <!-- Password -->
-                            <input type="text" placeholder="Password" class="mt-4 w-full rounded-lg text-lg placeholder:focus:text-[#dfe1e3]  p-3 ring-1 ring-[#dfe1e3] focus:outline focus:outline-[#5199f5] focus:ring focus:ring-[#b3d4fb]/20 focus:text-black text-[#9d96a1]">
+                            <input type="password" placeholder="Password" class="mt-4 w-full rounded-lg text-lg placeholder:focus:text-[#dfe1e3]  p-3 ring-1 ring-[#dfe1e3] focus:outline focus:outline-[#5199f5] focus:ring focus:ring-[#b3d4fb]/20 focus:text-black text-[#9d96a1]">
                             
                             <!-- Login Button -->
                             <button class="mt-5 w-full bg-[#1877f2] hover:bg-[#0f59b8] rounded-lg font-semibold text-white text-xl p-3">
